@@ -65,7 +65,7 @@ margin-right: 10px;
 #header{
     height: 400px;
     width: 100%;
-    background-color:  #343a40;
+    background-color:  #0dc9ff;
     position: relative;
 }
 .main{
@@ -133,7 +133,7 @@ ul{
 }
 .next{
     height: 130px;
-    background-color: #343a40;
+    background-color: #0dc9ff;
 }
 .fertson{
     margin-bottom: 30px;
